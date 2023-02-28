@@ -1,18 +1,18 @@
 title: Priyanka Jadhav
 logo: /assets/img/pri.png
-# description:
-#   <p align="center">
-#   <a href="pdf/resume.pdf">Resume</a> |
-#   <a href="https://www.linkedin.com/in/priyanka-jadhav56/">LinkedIn</a> |
-#   <a href="https://github.com/priyanka56jadhav">GitHub</a>
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/priyanka-jadhav56/">LinkedIn</a> |
+  <a href="https://github.com/priyanka56jadhav">GitHub</a>
   
-#   <br>   
-#   I'm working on Data Science and Machine learning related problems.
-#   Also creating dashboard using Plotly Dash technology.
-#   Worked with Tiger Analytics.
-#   Working in Data Science - Machine Learning domain for 4 years.
-#   <br>
-#   </p>
+  <br>   
+  I'm working on Data Science and Machine learning related problems.
+  Also creating dashboard using Plotly Dash technology.
+  Worked with Tiger Analytics.
+  Working in Data Science - Machine Learning domain for 4 years.
+  <br>
+  </p>
 
 
 theme: jekyll-theme-minimal
